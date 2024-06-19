@@ -1,2 +1,1 @@
-# Robustness-of-t-test
-To check whether t-test is robust under non-normal distributions.
+One sample t-test is used usually when the parent distribution is known to be normal.But when we are given with the sample observations, it may not always normally distributed. So, in that case, whether we can use t-test and if we use it whether it provides a good result is the query of this study.
